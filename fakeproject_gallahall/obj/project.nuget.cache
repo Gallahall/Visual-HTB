@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKcc88cvBzWDhaTb8+sMTtZNooOqdlyoCSbcxqnoqNjwIxnGYcCCctzWpqfowiWI7CrW117DRhPC2zLRH7jUag==",
+  "success": true,
+  "projectFilePath": "/home/gallahal/Desktop/CTF/HTB/season-3/Visual/fakeproject_gallahall/fakeproject_gallahall.csproj",
+  "expectedPackageFiles": [
+    "/home/gallahal/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/gallahal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/gallahal/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
